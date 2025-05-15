@@ -1,0 +1,12 @@
+<rss version="2.0">
+    <channel>
+        <title>Noticias de Tecnología</title>
+        <link>https://www.tecnologia.com</link>
+        <description>¡Las últimas noticias del mundo tech!</description>
+        <item>
+            <title>Nuevo lanzamiento de un smartphone</title>
+            <link>https://www.tecnologia.com/smartphone</link>
+            <description>Detalles sobre el nuevo dispositivo.</description>
+        </item>
+    </channel>
+</rss>
